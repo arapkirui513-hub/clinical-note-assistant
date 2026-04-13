@@ -1,1 +1,10 @@
-notes/mtsamples.csv 
+# Raw data
+notes/mtsamples.csv
+notes/mtsamples_10.txt
+
+# Utility scripts
+extract_notes.py
+select_notes.py
+
+# Generated outputs
+summary_output.json 
